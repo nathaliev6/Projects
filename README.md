@@ -11,19 +11,11 @@ It is created as a practice project for improving Python skills and GitHub workf
 - Subtraction (-)
 - Multiplication (*)
 - Division (/)
-- User-friendly interface (command line)
 
 ---
 
 ## 🛠️ Technologies Used
 - Python 3.9
-
----
-
-## ▶️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Projects.git
 
 
 
@@ -43,9 +35,3 @@ Generates a random password using lowercase, uppercase letters, digits and symbo
 
 ## Requirements
 - Python 3.9
-
-## How to run
-1. Clone the repository 
-```bash
-git clone https://github.com/YourUsername/your-repo.git
-cd your-repo/generate_password
